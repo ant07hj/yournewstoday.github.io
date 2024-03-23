@@ -13,13 +13,12 @@
 <blockquote>Absolotely enchanted us with its beautiful atmosphere and wonderful books!</blockquote>
 <p>The new store surely gained popularity as the only way to access as well as read books around town. It continues to grow every day, welcoming more and more enthralled readers!</p>
 
-<p><a href="ant07hj.github.io/Online_News_Article_Assignment/Documents
-/The_Opening_of_a_New_Bookstore_in_Voula.pdf
-" target="_blank">Download the article in PDF</a></p>
+<p><a href="News_Hub/Documents/The_Opening_of_a_New_Bookstore_in_Voula.pdf" target="_blank">Download the article in PDF</a></p>
 
 <h3>Pay a visit!</h3>
 <p>Interested to visit the new bookstore yourself?</p>
 <p>Here's a local forecast as of March for the city, Voula! Make sure to visit it!</p>
 <p><a href="https://www.accuweather.com/en/gr/voula/182526/march-weather/182526" target="_blank">Weather forecast</a></p>
+<p><a href="yournewstoday.github.io/News_Hub/Main_Page.html" target="_self">Back to Main</a></p>
 </body>
 </html>
